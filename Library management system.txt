@@ -1,0 +1,9 @@
+Library management system
+
+step1:start
+step2:enter into library.
+step3:show the id card and sign into the login registered book
+step4:then ask your ristered book. and what we want the book
+step5:then give the book
+step6:sign on your log out the book
+step7:stop
